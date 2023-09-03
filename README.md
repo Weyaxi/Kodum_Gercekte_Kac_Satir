@@ -8,8 +8,6 @@ Before using this program, make sure you have the following:
 
 - Python 3 installed on your system.
 
-- Required liblaries installed.
-
 ## Setup
 
 1. Clone the repository to your local machine or download the source code.
@@ -22,12 +20,6 @@ Before using this program, make sure you have the following:
 
    ```shell
    cd code-analyzer
-   ```
-
-3. Install the required dependencies by running the following command:
-
-   ```shell
-   pip3 install -r requirements.txt
    ```
 
 ## Usage
