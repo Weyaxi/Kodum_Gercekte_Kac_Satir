@@ -43,3 +43,7 @@ The program analyzes the code file and provides the following information:
 - Number of lines with hash (#) comments.
 - Number of lines with triple quotes (""") comments.
 - Number of empty lines in your code.
+
+## Screenshot
+
+![image](https://github.com/Weyaxi/code-analyzer/assets/81961593/38dc5eba-736f-48e4-aef1-532bf40c4853)
